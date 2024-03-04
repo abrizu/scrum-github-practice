@@ -1,0 +1,9 @@
+test() {
+double cumulative-per-test = (correct / total-questions) * 0.3;
+return cumulative-per-test;
+}
+
+assignment() {
+double assignment-weight = total-assignments * 0.4;
+return assignment-weight;
+}
