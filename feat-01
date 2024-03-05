@@ -1,0 +1,7 @@
+STORE() {
+  int student-id, double student-grades
+}
+
+GET() {
+  STORE();
+}
